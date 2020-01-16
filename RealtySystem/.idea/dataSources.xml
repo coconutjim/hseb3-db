@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4093961036">
+    <data-source source="LOCAL" name="PostgreSQL - realty_system@localhost" uuid="e29d310e-c506-4459-aafd-4e85988e6f76">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/realty_system</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>

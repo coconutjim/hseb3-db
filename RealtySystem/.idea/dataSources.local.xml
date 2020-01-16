@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - realty_system@localhost" uuid="e29d310e-c506-4459-aafd-4e85988e6f76">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>realty_system.pg_catalog realty_system.public</schema-pattern>
+      <default-schemas>realty_system.pg_catalog realty_system.public</default-schemas>
+    </data-source>
+  </component>
+</project>
