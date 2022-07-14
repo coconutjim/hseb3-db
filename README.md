@@ -1,5 +1,5 @@
 # hseb3-db
-2014\. Study project. Java desktop app with the simulation of real estate search app.
+2015\. Study project. Java desktop app with the simulation of real estate search app.
 ## Features
 1. Object search with parameters (city, square, price)
 2. Object card view
